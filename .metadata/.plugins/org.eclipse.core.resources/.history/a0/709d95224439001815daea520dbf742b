@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">RemoteLogin</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="textlogin_id">sssssssssss</string>
+    <string name="textlogin_password">eeee</string>
+    <string name="rememberpassword">ddddd</string>
+    <string name="autologin">dssss</string>
+    <string name="text_loginbutton">ttttttttttt</string>
+
+</resources>
